@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Curse of the Pharaos</name>
+    <directory>curseofthepharao</directory>
+    <id>69696969</id>
+    <description>T
+        This mods attempts to expand on the small amount of egyptian inspired bosses and items in the game
+        by adding a bunch of egypt/pharao themed items, familiars and bosses. Future plans can be seen on the github "milestones" section.
+        
+        Author: Zorehan
+    </description>
+    <version>1.21</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+    <tag id="Familiars"/>
+</metadata>

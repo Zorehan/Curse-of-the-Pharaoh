@@ -1,0 +1,7 @@
+<ItemPools>
+  <Pool Name="treasure">
+    <Item Name="Green Candle" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+    <Item Name="Angelic Baby" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+    <Item Name="Glowing Ankh" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+  </Pool>
+</ItemPools>
